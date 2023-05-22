@@ -1,0 +1,12 @@
+body{
+    background: radial-gradient(45px,aqua, #1acfbb);
+}
+.r1{
+
+    width: 1900px;
+    height: 900px;
+}
+.b1{
+    border-radius: 50%;
+    background: #e9e6e6;
+}
